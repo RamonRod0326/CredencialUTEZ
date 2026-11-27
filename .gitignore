@@ -1,0 +1,39 @@
+# Archivos personales del equipo
+EXPLICACION.md
+*.zip
+
+# Android
+.gradle/
+.kotlin/
+build/
+local.properties
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Spring Boot
+backend/target/
+backend/data/
+
+# ESP32 / PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+**/.venv/
+__pycache__/
+proyectos/*/logs/
+
+# Secretos
+**/secrets.h
+**/credentials.h
+.env
+*.token
+*.jks
+*.keystore
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.log

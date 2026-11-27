@@ -1,0 +1,5 @@
+# Herramientas de este proyecto, con versión clavada (RNF-04 del taller).
+# Son las mismas que usa el Tamagotchi: ya probadas en esta Mac.
+# Reinstalar con:  2-entorno/.venv/bin/pip install -r 2-entorno/requirements.txt
+platformio==6.1.19
+esptool==5.3.1

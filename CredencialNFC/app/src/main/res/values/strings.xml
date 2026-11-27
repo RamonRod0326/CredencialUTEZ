@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Credencial UTEZ</string>
+    <string name="servicio_nfc_descripcion">Credencial digital UTEZ</string>
+    <string name="servicio_nfc_aid">Identificación de estudiante UTEZ</string>
+</resources>
